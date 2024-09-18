@@ -7,6 +7,6 @@
 > 
 > با کمترین پردازش سیستمی
 
-asdfasdf`#0969DA`asdfadfsdf
+`#0969DA`asdfadfsdf
 
 
